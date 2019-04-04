@@ -280,5 +280,9 @@
 		<module>pinyougou-sellergoods-interface</module>
 		<module>pinyougou-sellergoods-service</module>
 		<module>pinyougou-shop-web</module>
+		<module>pinyougou-content-interface</module>
+		<module>pinyougou-content-service</module>
+		<module>pin</module>
+		<module>pinyougou-content-interface1</module>
 	</modules>
 </project>

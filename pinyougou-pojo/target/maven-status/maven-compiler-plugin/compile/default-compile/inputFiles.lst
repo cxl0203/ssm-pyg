@@ -2,10 +2,12 @@ D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbCo
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbUserExample.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbCities.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSpecificationOptionExample.java
+D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\entity\Result.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbContent.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbOrder.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSellerExample.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbPayLog.java
+D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\entity\PageResult.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbOrderExample.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbPayLogExample.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbItemExample.java
@@ -20,6 +22,7 @@ D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbGo
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbContentExample.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbGoods.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbItem.java
+D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojogroup\Specification.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbBrand.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbProvinces.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbAreas.java
@@ -33,6 +36,7 @@ D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbCi
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbAreasExample.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbItemCat.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbGoodsExample.java
+D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojogroup\Goods.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbFreightTemplate.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbItemCatExample.java
 D:\ssm-pyg\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbContentCategory.java
