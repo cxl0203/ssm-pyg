@@ -282,7 +282,10 @@
 		<module>pinyougou-shop-web</module>
 		<module>pinyougou-content-interface</module>
 		<module>pinyougou-content-service</module>
-		<module>pin</module>
-		<module>pinyougou-content-interface1</module>
+		<module>pinyougou-portal-web</module>
+		<module>pinyougou-solr-util</module>
+		<module>pinyougou-search-interface</module>
+		<module>pinyougou-search-service</module>
+		<module>pinyougou-search-web</module>
 	</modules>
 </project>
