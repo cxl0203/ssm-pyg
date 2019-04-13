@@ -139,6 +139,13 @@ public class GoodsController {
 				} else {
 					System.out.println("没有明细数据！");
 				}
+
+				// 生成商品详细页
+				// 静态页生成
+				for (Long goodsId : ids) {
+					itemPageService.genItemHtml(goodsId);
+				}
+
 			}
 			return new Result(true, "修改成功");
 		} catch (Exception e) {
