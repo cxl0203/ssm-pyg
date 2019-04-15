@@ -60,7 +60,7 @@ public class SolrUtil {
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
 				"classpath*:spring/applicationContext*.xml");
 		SolrUtil solrUtil = (SolrUtil) context.getBean("solrUtil");
-		solrUtil.importItemData();
-		// solrUtil.testDeleteAll();
+		// solrUtil.importItemData();
+		solrUtil.testDeleteAll();
 	}
 }
